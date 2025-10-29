@@ -13,7 +13,7 @@ function Header2() {
       <div className="flex items-center space-x-8">
         {/* Logo */}
         <div>
-          <Image src="/logo.png" alt="Logo" width={40} height={40} />
+          <Image src="/Logo.png" alt="Logo" width={40} height={40} />
         </div>
 
         {/* Navigation */}
